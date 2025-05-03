@@ -33,7 +33,7 @@ function Footer() {
             </div>
         </div>
         <hr />
-        <p className="footer-copyright">Cppyright 2025 © Tomato.com -
+        <p className="footer-copyright">Copyright 2025 © Tomato.com -
         All Right Reserved.</p>
     </div>
   )
